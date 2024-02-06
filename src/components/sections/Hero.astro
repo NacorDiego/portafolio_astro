@@ -8,7 +8,7 @@ import Section from "@/components/Section.astro";
 import WorldMap from "@/components/icons/WorldMap.astro";
 
 const { name, label, image, location, profiles, phone, email } = basics;
-const { city, region } = location;
+const { city, region, countryCode } = location;
 
 const SOCIAL_ICONS: Record<string, any> = {
   LinkedIn,
@@ -28,7 +28,7 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" - ");
       <h2>{label}</h2>
       <span>
         <WorldMap />
-        {city}, {region}
+        {city}, {region}, {countryCode}
       </span>
       <footer class="print">
         {printInfo}

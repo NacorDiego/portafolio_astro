@@ -1,41 +1,41 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Programmer",
+    "name": "Diego Nacor",
+    "label": "Desarrollador Web Full Stack con Experiencia en Tecnologías M.E.A.N | M.E.R.N y SQL",
     "image": "me.webp",
-    "email": "john@gmail.com",
-    "phone": "(912) 555-4321",
+    "email": "diegoenacor@gmail.com",
+    "phone": "+5492215474423",
     "url": "https://johndoe.com",
-    "summary": "A summary of John Doe…",
+    "summary": "Con experiencia en el desarrollo de sistemas, he llevado a cabo proyectos clave como la reingeniería de sistemas internos y la implementación de soluciones utilizando tecnologías como Angular, Node.js, Express y SQL. Además, poseo amplia experiencia en la creación y mantenimiento de sitios estáticos, y en la elaboración de plantillas en Wordpress. Por útlimo, he tenido el privilegio de liderar el rediseño de la plataforma INTRANET, una herramienta esencial en toda la provincia de Buenos Aires, utilizando FIGMA para su renovación.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "1900",
+      "city": "La Plata",
+      "countryCode": "AR",
+      "region": "Buenos Aires"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john",
-        "url": "https://twitter.com/john"
-      },
-      {
-        "network": "GitHub",
-        "username": "john",
-        "url": "https://twitter.com/john"
+        "username": "Diego Ezequiel Nacor",
+        "url": "https://www.linkedin.com/in/diego-ezequiel-nacor-97657b245/"
       }
     ]
   },
   "work": [
     {
-      "name": "Company",
-      "position": "President",
-      "url": "https://company.com",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
-      "summary": "Description…",
-      "highlights": ["Started the company"]
+      "name": "Ministerio de Salud de la Provincia de Buenos Aires",
+      "position": "Desarrollador Web",
+      "url": "https://www.gba.gob.ar/saludprovincia",
+      "startDate": "2021-06-01",
+      "endDate": null,
+      "summary": "Encargado del desarrollo de páginas y aplicaciones web utilizando tecnologías como Angular, Node.js, Express, SQL y Wordpress.",
+      "highlights": [
+        "Implementación eficiente",
+        "Soluciones innovadoras",
+        "Colaboración efectiva",
+        "Optimización de sistemas"
+      ]
     }
   ],
   "volunteer": [
@@ -51,14 +51,13 @@
   ],
   "education": [
     {
-      "institution": "University",
-      "url": "https://institution.com/",
-      "area": "Software Development",
-      "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "score": "4.0",
-      "courses": ["DB1101 - Basic SQL"]
+      "institution": "Universidad Nacional de La Plata",
+      "url": "https://unlp.edu.ar/",
+      "area": "Licenciatura en Informática",
+      "studyType": "Universitario",
+      "startDate": "2020-03-01",
+      "endDate": null,
+      "courses": []
     }
   ],
   "awards": [
@@ -87,11 +86,22 @@
     }
   ],
   "skills": [
-    {
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": ["HTML", "CSS", "JavaScript"]
-    }
+    "HTML",
+    "CSS",
+    "Tailwind",
+    "Bootstrap",
+    "Sass",
+    "Javascript",
+    "Typescript",
+    "React js",
+    "Angular",
+    "Astro",
+    "Node js",
+    "MySQL",
+    "MongoDB",
+    "Git",
+    "GitHub",
+    "Wordpress"
   ],
   "languages": [
     {
