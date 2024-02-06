@@ -29,7 +29,7 @@
       "url": "https://www.gba.gob.ar/saludprovincia",
       "startDate": "2021-06-01",
       "endDate": null,
-      "summary": "Encargado del desarrollo de páginas y aplicaciones web utilizando tecnologías como Angular, Node.js, Express, SQL y Wordpress.",
+      "summary": "Encargado del desarrollo y mantenimiento de páginas y aplicaciones web utilizando tecnologías como Angular, Node.js, Express, SQL y Wordpress.",
       "highlights": [
         "Implementación eficiente",
         "Soluciones innovadoras",
@@ -58,6 +58,23 @@
       "startDate": "2020-03-01",
       "endDate": null,
       "courses": []
+    },
+    {
+      "institution": "CoderHouse",
+      "url": "https://www.coderhouse.com/certificados/6249d455fe58430019ee5bf5",
+      "area": "Desarrollo Web",
+      "studyType": "",
+      "startDate": "2022-01-01",
+      "endDate": "2022-03-01",
+      "skills": [
+        "CSS",
+        "Bootstrap",
+        "SEO",
+        "Metodologías Ágiles",
+        "Git",
+        "GitHub",
+        "Sass"
+      ]
     }
   ],
   "awards": [
